@@ -1,6 +1,6 @@
-# LARGWAV - Lake And Reservoir Global Water Area Variations
+# SWAV Surface Water Area Variations
 
-LARGWAV is a collection of Python scripts used to estimate water surface area variations of lakes and reservoirs globally from Synthetic Aperature Radar (SAR) observations from the European Space Agency's Sentinel-1 Mission. The scripts utilize Google Earth Engine (GEE) for data access and processing. Also included are scripts to provide global and continental scale analysis of the derived surface area variations.
+SWAV is a collection of Python scripts used to estimate water surface area variations of lakes and reservoirs globally from Synthetic Aperature Radar (SAR) observations from the European Space Agency's Sentinel-1 Mission. The scripts utilize Google Earth Engine (GEE) for data access and processing. Also included are scripts to provide global and continental scale analysis of the derived surface area variations.
 
 ## Google Earth Engine Python API Installation
 This software makes use of the GEE Python API, which can be installed by following instructions [here]https://developers.google.com/earth-engine/guides/python_install. Additionally, users need to register for a GEE account, which can be found [here]https://signup.earthengine.google.com.

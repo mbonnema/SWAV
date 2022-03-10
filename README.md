@@ -1,5 +1,7 @@
 # SWAV Surface Water Area Variations
 
+[![License (3-Clause BSD)](https://img.shields.io/badge/license-BSD%203--Clause-yellow.svg)](https://github.com/mbonnema/SWAV/blob/main/LICENSE)
+
 SWAV is a collection of Python scripts used to estimate water surface area variations of lakes and reservoirs globally from Synthetic Aperature Radar (SAR) observations from the European Space Agency's Sentinel-1 Mission. The scripts utilize Google Earth Engine (GEE) for data access and processing. Also included are scripts to provide global and continental scale analysis of the derived surface area variations.
 
 ## Google Earth Engine Python API Installation

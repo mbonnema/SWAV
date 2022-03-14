@@ -13,6 +13,6 @@
 #List of files that git will ignore
 #*******************************************************************************
 #-------------------------------------------------------------------------------
-#The output files stored in sub-directories of
+#The input and output files stored in sub-directories of
 #-------------------------------------------------------------------------------
-output/
+data/

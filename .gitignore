@@ -1,0 +1,18 @@
+#*******************************************************************************
+#.gitignore
+#*******************************************************************************
+
+#Purpose:
+#The git program is informed here to ignore the following files while performing
+#its distributed revision control and source code management.
+#Author:
+#Matthew Bonnema
+
+
+#*******************************************************************************
+#List of files that git will ignore
+#*******************************************************************************
+#-------------------------------------------------------------------------------
+#The input and output files stored in sub-directories of
+#-------------------------------------------------------------------------------
+data/

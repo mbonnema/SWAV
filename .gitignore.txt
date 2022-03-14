@@ -16,3 +16,7 @@
 #The input and output files stored in sub-directories of
 #-------------------------------------------------------------------------------
 data/
+data/SurfaceArea.csv
+data/Lerror.csv
+data/Werror.csv
+data/Nodata.csv
